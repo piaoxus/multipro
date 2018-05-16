@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springbootDemo" />
         <module name="z-app" />
         <module name="z-core" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="multipro" target="1.5" />
+      <module name="z-app" target="1.7" />
+      <module name="z-core" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
