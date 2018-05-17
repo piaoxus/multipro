@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/z-core/src/main/main.iml" filepath="$PROJECT_DIR$/z-core/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springbootDemo/src/main/main1.iml" filepath="$PROJECT_DIR$/springbootDemo/src/main/main1.iml" />
       <module fileurl="file://$PROJECT_DIR$/multipro.iml" filepath="$PROJECT_DIR$/multipro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springbootDemo/src/test/test.iml" filepath="$PROJECT_DIR$/springbootDemo/src/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/z-app/z-app.iml" filepath="$PROJECT_DIR$/z-app/z-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/z-core/z-core.iml" filepath="$PROJECT_DIR$/z-core/z-core.iml" />
     </modules>
